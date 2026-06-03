@@ -1,2 +1,5 @@
 # Web-dev-learning
-Track of web development progress
+Track of my web development progress
+### 📅 Date: 03 June 2026
+* **Topic:** HTML and CSS
+* **Resource:**'(HTML&CSS)[https://youtu.be/HGTJBPNC-Gw?si=SUK9H22y9tsUkEfs]'
